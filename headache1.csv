@@ -1,0 +1,501 @@
+Headache_Type,Pain_Type,Pain_Location,Pain_Duration,Onset_Speed,Nausea_Vomiting,Light_Sound_Sensitivity,Visual_Aura_or_Changes,Nasal_Congestion_Tearing,Recent_Head_Injury,Recent_Physical_Exertion,Medication_Overuse,Caffeine_Withdrawal,Menstruation_or_Hormones,High_Blood_Pressure,Recent_Lumbar_Puncture,Worsens_Upright
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,Yes,No,No,No,No
+Cluster,Dull/Aching,Around one eye,Seconds,Rapid (Under 1 min),Yes,No,No,Yes,No,No,No,No,No,No,Yes,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,Yes,No,No,No,No,No
+Allergy or sinus,Throbbing/Pulsing,Sinus/Front,Minutes to Hours,Gradual,No,No,No,No,Yes,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,No,No
+Rebound,Throbbing/Pulsing,One side,Seconds,Gradual,No,No,No,No,No,No,Yes,No,Yes,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,Yes,Yes,No,No,No,No,Yes,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No
+Spinal,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Tension,Dull/Aching,Both sides,Minutes to Hours,Gradual,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No
+Hemicrania continua,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,Yes,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Gradual,No,No,No,No,Yes,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Ice pick,Stabbing,Moves around,Continuous (>3 months),Rapid (Under 1 min),No,No,No,No,No,No,No,Yes,No,No,No,No
+Thunderclap,Severe,Moves around,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,Yes,No,No,No,No,No,No
+Ice pick,Stabbing,Around one eye,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,Yes
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Rapid (Under 1 min),Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes
+Ice pick,Stabbing,Moves around,Continuous (>3 months),Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,Yes
+Post-traumatic,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes
+Cluster,Burning/Piercing,One side,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Post-traumatic,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Thunderclap,Dull/Aching,All over,Seconds,Rapid (Under 1 min),Yes,No,No,No,Yes,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,One side,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,Yes,No,No,No,No,No,No,No,No,Yes,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,Yes,No,No,No
+Caffeine,Dull/Aching,All over,Seconds,Gradual,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No
+Hypertension,Dull/Aching,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,Yes,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,Yes
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,Yes,No,No
+Hormone,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes
+Ice pick,Stabbing,One side,Seconds,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No
+Post-traumatic,Throbbing/Pulsing,Sinus/Front,Continuous (>3 months),Gradual,No,No,No,No,Yes,No,No,No,No,No,No,No
+Tension,Severe,All over,Continuous (>3 months),Gradual,No,No,No,No,No,No,No,No,Yes,No,Yes,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Rapid (Under 1 min),Yes,No,No,No,Yes,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,Yes
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,Yes,No,No,No,No,No,No,No,Yes
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,One side,Minutes to Hours,Rapid (Under 1 min),No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,Yes,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Cluster,Stabbing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No
+Hormone,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,Yes,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,Yes,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No
+Hemicrania continua,Burning/Piercing,Moves around,Continuous (>3 months),Gradual,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,Yes,No
+Ice pick,Stabbing,Moves around,Seconds,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,Yes,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,Around one eye,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,Yes,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Post-traumatic,Throbbing/Pulsing,All over,Continuous (>3 months),Rapid (Under 1 min),Yes,No,No,No,Yes,No,No,No,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,Yes,No,No,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes
+Hormone,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No
+Rebound,Burning/Piercing,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Tension,Dull/Aching,Both sides,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No
+Post-traumatic,Throbbing/Pulsing,Both sides,Continuous (>3 months),Gradual,No,Yes,Yes,No,No,No,No,No,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,Yes,Yes,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,Yes,No,No,No,Yes,Yes,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Gradual,No,Yes,Yes,No,No,No,No,No,No,No,No,No
+Hemicrania continua,Dull/Aching,Back of head/Neck,Continuous (>3 months),Gradual,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,Yes,No,Yes,No,No,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,4 to 72 hours,Gradual,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,Yes,Yes,No,No,Yes,No,No,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,Yes,No,No,No,No,Yes,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,No,No
+Migraine,Stabbing,One side,4 to 72 hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Post-traumatic,Dull/Aching,Both sides,Continuous (>3 months),Gradual,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No
+Cluster,Throbbing/Pulsing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,Sinus/Front,4 to 72 hours,Gradual,No,No,No,No,No,Yes,No,Yes,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes
+Rebound,Dull/Aching,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,Yes,Yes,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,Yes,No,No,No,No,No,No,No
+Post-traumatic,Throbbing/Pulsing,Around one eye,Continuous (>3 months),Gradual,No,No,No,No,Yes,No,No,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes
+Migraine,Throbbing/Pulsing,Moves around,4 to 72 hours,Gradual,No,Yes,No,No,No,No,No,No,No,No,No,No
+Hemicrania continua,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+Allergy or sinus,Severe,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,Yes,No
+Hormone,Throbbing/Pulsing,Sinus/Front,Minutes to Hours,Gradual,No,Yes,No,No,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,Yes,No,No,No,No,No
+Post-traumatic,Severe,All over,Seconds,Gradual,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No
+Migraine,Dull/Aching,Both sides,4 to 72 hours,Rapid (Under 1 min),No,Yes,Yes,No,No,No,No,No,No,No,No,Yes
+Migraine,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,Yes,No,No,Yes,No,Yes,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,Yes,No,No,No
+Migraine,Severe,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Seconds,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Rebound,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,Yes,No,No,No,Yes,No,No,No,No,No
+Caffeine,Dull/Aching,All over,4 to 72 hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,Yes,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Rapid (Under 1 min),No,No,Yes,No,No,No,Yes,No,No,Yes,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Rapid (Under 1 min),Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,No,No,Yes,No,No
+Tension,Burning/Piercing,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,Yes
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,Yes,No,No,No,No,No,No,No
+Thunderclap,Severe,Sinus/Front,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes
+Hypertension,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Thunderclap,Burning/Piercing,All over,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,Yes,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,Yes
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No
+Hypertension,Burning/Piercing,Both sides,Minutes to Hours,Gradual,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No
+Exertion,Stabbing,Both sides,4 to 72 hours,Rapid (Under 1 min),No,Yes,No,No,No,Yes,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,Yes,No,No
+Hormone,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+Rebound,Dull/Aching,Around one eye,4 to 72 hours,Gradual,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+Ice pick,Stabbing,All over,Seconds,Rapid (Under 1 min),No,Yes,No,No,No,No,Yes,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),Yes,No,No,No,No,Yes,Yes,No,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,4 to 72 hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Hemicrania continua,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No
+Allergy or sinus,Dull/Aching,Both sides,Minutes to Hours,Gradual,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Seconds,Gradual,No,No,Yes,No,No,No,No,No,No,Yes,No,No
+Caffeine,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,No,No,No,No,Yes,No,No,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Rapid (Under 1 min),Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No
+Rebound,Dull/Aching,All over,4 to 72 hours,Gradual,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Seconds,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,Yes,No,No,No,No
+Tension,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,Yes,No
+Spinal,Severe,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Spinal,Dull/Aching,Both sides,Seconds,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Spinal,Dull/Aching,Moves around,Minutes to Hours,Gradual,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes
+Caffeine,Dull/Aching,One side,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Rebound,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+Hormone,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes
+Exertion,Throbbing/Pulsing,Both sides,Continuous (>3 months),Rapid (Under 1 min),No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Tension,Dull/Aching,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,Yes,No,No,No
+Hemicrania continua,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Rapid (Under 1 min),No,No,Yes,No,No,No,No,No,No,No,Yes,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Gradual,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,Yes,No,No,No,No,No
+Post-traumatic,Severe,All over,Continuous (>3 months),Gradual,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Seconds,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,Yes,No,No,Yes,No,No,No,No,No,No,No
+Post-traumatic,Throbbing/Pulsing,Around one eye,Continuous (>3 months),Rapid (Under 1 min),Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+Hypertension,Stabbing,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,No,Yes,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+Caffeine,Dull/Aching,One side,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Spinal,Stabbing,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Rebound,Throbbing/Pulsing,One side,Seconds,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,Yes,No,No,No
+Hormone,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No
+Ice pick,Throbbing/Pulsing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,Yes,No,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,Yes,No,No,No,No,No,No,No,No,Yes,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes
+Cluster,Severe,Around one eye,4 to 72 hours,Gradual,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No
+Rebound,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Post-traumatic,Dull/Aching,Both sides,Continuous (>3 months),Gradual,No,No,No,No,Yes,No,No,No,No,No,Yes,No
+Post-traumatic,Throbbing/Pulsing,Both sides,Continuous (>3 months),Gradual,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,4 to 72 hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Rebound,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No
+Migraine,Throbbing/Pulsing,One side,Seconds,Gradual,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No
+Hypertension,Burning/Piercing,Both sides,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,No,No,Yes,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,Yes,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Hemicrania continua,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,Yes,No,No,No,Yes
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),Yes,No,No,No,No,No,No,Yes,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Migraine,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,Yes,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,Yes,No,No,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Tension,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,Yes,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,Yes,No,No,No,No,No,No,No,No,No,No
+Cluster,Throbbing/Pulsing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,Yes,No,Yes,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Tension,Dull/Aching,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,Yes,No,No,No,No,No,Yes,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Migraine,Dull/Aching,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,Yes,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Rebound,Throbbing/Pulsing,One side,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,Yes,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,Yes,No,No,No,Yes,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,Yes,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No
+Exertion,Throbbing/Pulsing,Both sides,4 to 72 hours,Rapid (Under 1 min),No,No,No,No,Yes,Yes,No,No,No,No,No,Yes
+Migraine,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,Yes
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,No
+Hormone,Stabbing,Both sides,Minutes to Hours,Gradual,No,Yes,No,No,No,No,No,No,Yes,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+Rebound,Dull/Aching,All over,4 to 72 hours,Rapid (Under 1 min),No,No,Yes,No,No,No,Yes,No,No,No,No,No
+Cluster,Burning/Piercing,Sinus/Front,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,Yes,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,No,No
+Post-traumatic,Burning/Piercing,All over,Continuous (>3 months),Gradual,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,Yes,No,No,No,No,No
+Ice pick,Stabbing,One side,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,Yes,No,Yes
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,Yes,Yes
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,Yes
+Post-traumatic,Throbbing/Pulsing,Both sides,Continuous (>3 months),Gradual,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No
+Thunderclap,Severe,Around one eye,Minutes to Hours,Rapid (Under 1 min),Yes,No,Yes,No,No,No,No,No,No,No,No,No
+Hemicrania continua,Throbbing/Pulsing,One side,Continuous (>3 months),Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Cluster,Throbbing/Pulsing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,Yes,No,No,Yes,No,No,No,No,No,No,No
+Tension,Stabbing,All over,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,Yes
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,Yes,No,No,No,No,Yes,No,No
+Spinal,Severe,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+Caffeine,Throbbing/Pulsing,Sinus/Front,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No
+Hormone,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,Yes,No,No,No,Yes,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,No,No,No
+Rebound,Severe,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes
+Thunderclap,Severe,All over,Minutes to Hours,Gradual,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Thunderclap,Severe,Around one eye,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,Yes,No,No,No,No,No,No,Yes,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,Yes,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,4 to 72 hours,Rapid (Under 1 min),No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,Yes,No,Yes,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Back of head/Neck,Minutes to Hours,Rapid (Under 1 min),No,Yes,No,No,No,Yes,No,No,No,No,No,Yes
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,No,Yes,Yes,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,Yes,No,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,No,No
+Tension,Dull/Aching,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Seconds,Gradual,No,No,Yes,No,No,No,No,No,No,Yes,No,No
+Caffeine,Burning/Piercing,Around one eye,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,Yes,No,No,No,No,No,No,No,No,No,Yes
+Caffeine,Burning/Piercing,All over,Seconds,Gradual,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+Ice pick,Stabbing,All over,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,Yes,No,No,No,No,Yes,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes
+Cluster,Burning/Piercing,Around one eye,4 to 72 hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,Yes,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Spinal,Throbbing/Pulsing,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Spinal,Throbbing/Pulsing,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+Cluster,Burning/Piercing,One side,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,Yes,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,Yes,No,No,No,No,Yes,No,No,No,No
+Caffeine,Throbbing/Pulsing,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes
+Hypertension,Throbbing/Pulsing,Both sides,4 to 72 hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,Yes,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),No,No,Yes,No,No,No,Yes,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,No,No,Yes,No,Yes,No,No,No,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,No,No,No,No,Yes,No,No,No,Yes,No,No,No
+Rebound,Dull/Aching,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,Yes,No,No,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,No,No,No,Yes,No,No,No
+Rebound,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,Yes,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,Yes,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,Yes
+Ice pick,Burning/Piercing,Moves around,Seconds,Rapid (Under 1 min),No,No,Yes,No,No,No,No,No,No,Yes,No,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Rebound,Dull/Aching,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,Yes,No,Yes,Yes,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Spinal,Severe,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes
+Hormone,Burning/Piercing,Both sides,Minutes to Hours,Gradual,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),Yes,No,No,No,No,No,No,Yes,No,No,No,No
+Caffeine,Throbbing/Pulsing,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes
+Hormone,Dull/Aching,One side,4 to 72 hours,Gradual,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No
+Hemicrania continua,Burning/Piercing,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,Yes,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No
+Post-traumatic,Dull/Aching,One side,Continuous (>3 months),Gradual,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,No
+Allergy or sinus,Severe,Sinus/Front,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,No
+Tension,Dull/Aching,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Around one eye,Continuous (>3 months),Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,Sinus/Front,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,Yes,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,Yes,Yes,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,No,No,No,No,No
+Rebound,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,Yes,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,Yes,No,Yes,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,No,Yes,No,No,Yes,No,No,No,No,No,No,No
+Rebound,Dull/Aching,Around one eye,Minutes to Hours,Gradual,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,No,Yes,No,No,No,No,No,No,No,No,No
+Exertion,Burning/Piercing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,Yes
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,Yes,No,No,No,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Migraine,Dull/Aching,One side,4 to 72 hours,Gradual,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Gradual,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No
+Caffeine,Dull/Aching,All over,4 to 72 hours,Gradual,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,Yes,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Rapid (Under 1 min),No,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,Yes,No,No
+Tension,Stabbing,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,Yes,No,No,No,No
+Caffeine,Dull/Aching,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,Yes,No
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,Yes,No
+Post-traumatic,Throbbing/Pulsing,Both sides,Continuous (>3 months),Gradual,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No
+Thunderclap,Stabbing,All over,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,Yes,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,No,No,Yes,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+Post-traumatic,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No
+Exertion,Stabbing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,No,No
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,Yes,No,No,No,No
+Hemicrania continua,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+Cluster,Burning/Piercing,Both sides,4 to 72 hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,Yes
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,Continuous (>3 months),Gradual,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes
+Caffeine,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,Yes,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Back of head/Neck,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,No,No,No,No,Yes
+Migraine,Burning/Piercing,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No
+Cluster,Burning/Piercing,Around one eye,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,No,Yes,No,No,No,No
+Hypertension,Throbbing/Pulsing,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,No
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,No,Yes,No,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No
+Hormone,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,Yes,No,No,No,No,No,No,Yes,No,No,No
+Spinal,Dull/Aching,One side,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+Cluster,Burning/Piercing,One side,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,Yes,No,No,No,No,No,No,No,Yes
+Exertion,Throbbing/Pulsing,Both sides,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,Yes,No,Yes,No,No,No,Yes
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,No,No,No,No,Yes,No,No,No,No,Yes,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Rapid (Under 1 min),Yes,No,No,No,Yes,No,No,No,No,No,No,Yes
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes
+Migraine,Stabbing,Both sides,4 to 72 hours,Gradual,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+Rebound,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,Yes,No,No,No,No
+Ice pick,Stabbing,Moves around,Seconds,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes
+Hypertension,Throbbing/Pulsing,Both sides,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,Yes,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Continuous (>3 months),Gradual,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Caffeine,Severe,All over,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,Yes,No,No,No,No
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Rebound,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No
+Ice pick,Stabbing,Moves around,Seconds,Rapid (Under 1 min),No,No,No,No,No,No,No,Yes,No,No,Yes,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes
+Thunderclap,Severe,All over,Minutes to Hours,Rapid (Under 1 min),Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No
+Hemicrania continua,Dull/Aching,One side,Continuous (>3 months),Gradual,No,No,Yes,Yes,No,No,No,No,No,No,No,No
+Exertion,Throbbing/Pulsing,Both sides,4 to 72 hours,Rapid (Under 1 min),No,No,No,No,No,No,No,No,No,No,No,No
+Hemicrania continua,Throbbing/Pulsing,One side,Continuous (>3 months),Rapid (Under 1 min),No,No,No,Yes,No,No,No,Yes,No,No,Yes,No
+Spinal,Stabbing,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes
+Rebound,Stabbing,One side,4 to 72 hours,Gradual,No,Yes,Yes,No,No,No,No,No,No,No,No,No
+Post-traumatic,Burning/Piercing,Both sides,Continuous (>3 months),Gradual,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes
+Allergy or sinus,Stabbing,One side,Minutes to Hours,Rapid (Under 1 min),No,No,No,Yes,No,No,Yes,No,No,No,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Allergy or sinus,Dull/Aching,Sinus/Front,Minutes to Hours,Gradual,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes
+Tension,Dull/Aching,All over,Minutes to Hours,Rapid (Under 1 min),No,No,No,No,No,No,No,Yes,No,No,No,No
+Spinal,Dull/Aching,Back of head/Neck,Minutes to Hours,Gradual,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes
+Post-traumatic,Dull/Aching,All over,Continuous (>3 months),Gradual,No,No,No,No,Yes,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No
+Rebound,Dull/Aching,One side,4 to 72 hours,Gradual,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No
+Tension,Dull/Aching,All over,Minutes to Hours,Gradual,No,No,Yes,No,No,No,No,No,No,No,No,No
+Migraine,Throbbing/Pulsing,One side,4 to 72 hours,Gradual,No,No,No,No,No,No,No,No,No,No,No,No
+Hormone,Throbbing/Pulsing,One side,Minutes to Hours,Gradual,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No

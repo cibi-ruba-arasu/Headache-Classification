@@ -2,3 +2,4 @@ Trained a Random Forest model to Classify the Type of Headache Based on Symptoms
 
 Trained and Exported Model Using : [Click Here](https://github.com/cibi-ruba-arasu/Headache-Classification/blob/main/Model_Training.ipynb)
 
+Dataset : [Click Here](https://github.com/cibi-ruba-arasu/Headache-Classification/blob/main/headache1.csv)
